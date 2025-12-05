@@ -64,3 +64,15 @@ PRs welcome!
 
 ## 📜 License
 MIT License
+
+## About This Project
+
+This is a Python class project simulating a space tourism agency. The project demonstrates core Python concepts including variables, classes, lists, tuples, functions, loops, and user input handling.
+
+## Team Members
+
+- Jason
+- Anthony
+- Joshua
+- Jeed
+- James
